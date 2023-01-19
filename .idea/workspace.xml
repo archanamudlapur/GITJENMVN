@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="987e0472-62ba-4df4-8386-7ba1c45e4f7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/archanamudlapur/Documents/FreeCrmTest/src/main/java/com/crm/qa/TestData",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/archanamudlapur/Documents/FreeCrmTest/src/main/java/com/crm/qa/TestData&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/crm/qa/TestData" />
@@ -71,24 +68,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/archanamudlapur/Documents/FreeCrmTest/src/main/resources/testng.xml">
-    <configuration name="ContactPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FreeCrmTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.crm.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.ContactPageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LandingPageTest.ValidateLoginPageTest">
     <configuration name="HomePageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FreeCrmTest" />
       <extension name="coverage">
@@ -106,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LandingPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LandingPageTest.ValidateLoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FreeCrmTest" />
       <extension name="coverage">
         <pattern>
@@ -116,7 +96,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LandingPageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="ValidateLoginPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -150,20 +131,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/archanamudlapur/Documents/FreeCrmTest/target/classes/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/classes/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.ContactPageTest" />
+      <item itemvalue="TestNG./Users/archanamudlapur/Documents/FreeCrmTest/target/classes/testng.xml" />
+      <item itemvalue="TestNG.LandingPageTest.ValidateLoginPageTest" />
       <item itemvalue="TestNG.HomePageTest (1)" />
-      <item itemvalue="TestNG.LandingPageTest" />
       <item itemvalue="TestNG.LoginPageTest" />
       <item itemvalue="TestNG./Users/archanamudlapur/Documents/FreeCrmTest/src/main/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LandingPageTest.ValidateLoginPageTest" />
+        <item itemvalue="TestNG./Users/archanamudlapur/Documents/FreeCrmTest/target/classes/testng.xml" />
         <item itemvalue="TestNG./Users/archanamudlapur/Documents/FreeCrmTest/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.HomePageTest (1)" />
         <item itemvalue="TestNG.LoginPageTest" />
-        <item itemvalue="TestNG.LandingPageTest" />
-        <item itemvalue="TestNG.ContactPageTest" />
       </list>
     </recent_temporary>
   </component>
